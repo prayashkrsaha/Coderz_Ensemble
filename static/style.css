@@ -1,0 +1,83 @@
+.bg-nav{
+	background: #0F2027;  /* fallback for old browsers */
+	background: -webkit-linear-gradient(to right, #2C5364, #203A43, #0F2027);  /* Chrome 10-25, Safari 5.1-6 */
+	background: linear-gradient(to right, #2C5364, #203A43, #0F2027); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+	height: 100%;
+}
+
+.mt-100{
+	margin-top: 100px;
+}
+
+.bg-final{
+	background: #0F2027;  /* fallback for old browsers */
+	background: -webkit-linear-gradient(to right, #2C5364, #203A43, #0F2027);  /* Chrome 10-25, Safari 5.1-6 */
+	background: linear-gradient(to right, #2C5364, #203A43, #0F2027); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+	height: 100%;
+}
+
+.display h3{
+    text-align: center;
+    font-size: 50px;
+    font-weight: bold;
+    font-family: "Castellar";
+    margin:0;
+    margin-bottom: 5px;
+    margin-top: 50px;
+    padding:5px;
+}
+
+/* .display p{
+    margin:0;
+    padding:0 ;
+    text-align: center;
+    font-size: 40px;
+    font-family: "Blackadder ITC";
+} */
+
+
+.left{
+    width:50%;
+    float: left;
+    text-align: left;
+    font-size: 25px;
+    font-family:"Times New Roman";
+}
+
+.right{
+    width:50%;
+    float: right;
+    text-align: left;
+    font-size: 25px;
+    font-family:"Times New Roman";
+}
+.list{
+    text-align:left;
+
+    font-size: 20px;
+    font-family:"Times New Roman";
+}
+.list a{color:white;}
+
+.left1{
+    width:75%;
+    margin:0;
+    float :left;
+    
+
+}
+
+.left1 p{
+    text-align: center;
+    margin-right: 25px;
+    font-size: 35px;
+    font-family: "Blackadder ITC";
+}
+
+
+.right1{
+    width:25%;
+    float:right;
+    margin:0;
+    border-width: 2px solid white;
+}
